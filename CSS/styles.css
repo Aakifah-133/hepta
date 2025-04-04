@@ -18,7 +18,7 @@ body {
 
 /* Hero Section */
 .hero-section {
-    background: url('./images/hero_1.jpg.webp') no-repeat center center;
+    background: url('./images/hero_1.jpg') no-repeat center center;
     background-size: cover;
     height: 100vh;
     display: flex;
